@@ -1,12 +1,68 @@
-.header {
-  width: 200px;
-  margin-inline: auto;
-}
-
 .logo {
-  width: 100%;
+  width: 200px;
 }
 
 header {
   text-align: center;
+}
+
+.main-title {
+  text-align: center;
+  font-family: "Lora", serif;
+  font-weight: 700;
+}
+
+.p-main {
+  font-size: small;
+}
+
+main {
+  width: 650px;
+  margin-inline: auto;
+  font-family: "Lora", serif;
+  font-weight: 500;
+}
+
+.img-content {
+  width: 650px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 2px 0px #beb9b963;
+}
+
+figure {
+  margin-inline: auto;
+  text-align: center;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.logo-footer {
+  font-family: "Lora", serif;
+  font-weight: 500;
+  font-size: x-small;
+  color: #006666;
+}
+
+figcaption {
+  color: #a39e9efa;
+  font-size: small;
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+
+.feature-link {
+  color: #b35900;
+  padding-left: 20px;
+  border-left: solid #face7d;
+}
+
+.related-link {
+  color: #008080;
+  font-size: small;
+}
+
+.h3-ingredients {
+  padding-top: 30px;
 }
